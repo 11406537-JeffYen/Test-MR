@@ -1,10 +1,8 @@
-## PR Submission Requirements
-
-### Summary
+**Summary**
 - 
 
-### Test Plan
+**Test Plan**
 - 
 
-### Test Log and autoval-review result
+**Test Log and autoval-review result**
 -
