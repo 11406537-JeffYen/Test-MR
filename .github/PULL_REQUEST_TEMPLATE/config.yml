@@ -3,14 +3,7 @@ description: 請選擇最符合您這次改動類型的 PR 範本。
 
 # 這裡列出你所有的範本檔案
 templates:
-  - name: 🐛 Bug Fix Template
+  - name: Pull Request Templates
     about: 用於修復功能、解決 Exception 或相容性問題。
-    filename: bug_fix.md
-
-  - name: 🚀 New Feature Template
-    about: 用於新增功能、新平台支援（如 San Miguel）或擴充參數。
-    filename: new_feature.md
-
-  - name: ⚡ Quick Change Template
-    about: 用於小改動、修改 Typos 或參數微調。
-    filename: quick_change.md
+    filename: pull_request_template.md
+    
