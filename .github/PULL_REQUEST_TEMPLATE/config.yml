@@ -1,9 +1,8 @@
 name: Pull Request Templates
-description: 請選擇最符合您這次改動類型的 PR 範本。
+description: Please select the PR template that best matches your change type.
 
-# 這裡列出你所有的範本檔案
+# List all your template files here
 templates:
   - name: Pull Request Templates
-    about: 用於修復功能、解決 Exception 或相容性問題。
+    about: Standard PR template with Summary, Test Plan, Test Log, and Autoval-review Result.
     filename: pull_request_template.md
-    
